@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/blue_ocean_logo.jpg">
+			<img src="{{ '/images/blue_ocean_logo.jpg' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Blue Ocean Aquaculture Technology Pte Ltd</b></h4>
@@ -53,7 +53,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/blue_ocean_product1.jpg">
+			<img src="{{ '/images/blue_ocean_product1.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Jade Perch</h6>
@@ -62,7 +62,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/blue_ocean_product2.jpg">
+			<img src="{{ '/images/blue_ocean_product2.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Jade Perch Collagen Soup</h6>
@@ -71,7 +71,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/blue_ocean_product3.jpg">
+			<img src="{{ '/images/blue_ocean_product3.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Hand Made Jade Perch Udon</h6>

@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/amigo_logo.png">
+			<img src="{{ '/images/amigo_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Amigo SG Pte Ltd</b></h4>
@@ -52,7 +52,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/amigo_product1.jpg">
+			<img src="{{ '/images/amigo_product1.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Man Kee Chili &amp; Spice Sauce 220g</h6>
@@ -61,7 +61,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/amigo_product2.jpg">
+			<img src="{{ '/images/amigo_product2.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Man Kee Garlic Sauce 235g</h6>
@@ -70,7 +70,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/amigo_product3.jpg">
+			<img src="{{ '/images/amigo_product3.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Man Kee Salted Fish Paste 260g</h6>
@@ -79,7 +79,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/amigo_product4.jpg">
+			<img src="{{ '/images/amigo_product4.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Sina Ginger Candy</h6>
@@ -88,7 +88,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/amigo_product5.jpg">
+			<img src="{{ '/images/amigo_product5.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Chewy Jiang Xi Rice Stick 400g</h6>

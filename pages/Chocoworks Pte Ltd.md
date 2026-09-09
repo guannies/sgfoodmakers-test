@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="/images/chocoworks_logo.png">
+<img src="{{ '/images/chocoworks_logo.png' | relative_url }}">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -76,7 +76,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/chocoworks_product1.jpeg">
+<img src="{{ '/images/chocoworks_product1.jpeg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">CHOCOELF Chocolate Bars (No Sugar)
@@ -87,7 +87,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/chocoworks_product2.jpg">
+<img src="{{ '/images/chocoworks_product2.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Healthier Choice Chocolate Almonds (No Sugar)
@@ -98,7 +98,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/chocoworks_product3.jpg">
+<img src="{{ '/images/chocoworks_product3.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">BOOSTER Functional Chocolate Snacks
@@ -109,7 +109,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/chocoworks_product4.jpg">
+<img src="{{ '/images/chocoworks_product4.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">CHOCOELF Mahjong Chocolate
@@ -120,7 +120,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/chocoworks_product5.jpg">
+<img src="{{ '/images/chocoworks_product5.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">CHOCOELF Fresh Truffles and Pralines

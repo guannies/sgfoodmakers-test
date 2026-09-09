@@ -12,7 +12,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Alphico%20Marketing/alphico_marketing_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Alphico%20Marketing/alphico_marketing_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -23,7 +23,7 @@ third_nav_title: Product Categories
 			<small>Singapore Style/Herbal Bak Kut Teh soup spices, Char Siew and Black Pepper cooking sauces made from selected premium quality ingredients.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/alphico-marketing">
+			<a target="_blank" href="{{ '/alphico-marketing' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -33,7 +33,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/amigo_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/amigo_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -44,7 +44,7 @@ third_nav_title: Product Categories
 			<small>Supplier of sauces, noodles, pastes, and oil.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/amigo-sg">
+			<a target="_blank" href="{{ '/amigo-sg' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -54,7 +54,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Amoy%20Canning%20Corporation/amoy_canning_corporation_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Amoy%20Canning%20Corporation/amoy_canning_corporation_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -65,7 +65,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of canned meat, seafood items, vegetable condiments, sauces, curry mixes and canned drinks.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/amoy-canning-corporation">
+			<a target="_blank" href="{{ '/amoy-canning-corporation' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -75,7 +75,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chee%20Seng/chee_seng_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Chee%20Seng/chee_seng_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -86,7 +86,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of Sesame Oil.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chee-seng">
+			<a target="_blank" href="{{ '/chee-seng' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -96,7 +96,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chefmaster/chefmaster_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Chefmaster/chefmaster_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -107,7 +107,7 @@ third_nav_title: Product Categories
 			<small>Brand owner of range of pastes and sauces.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chefmaster">
+			<a target="_blank" href="{{ '/chefmaster' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -117,7 +117,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/chuan_hong_seng_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/chuan_hong_seng_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -128,7 +128,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of Shrimp Roll Snack.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chuan-hong-seng">
+			<a target="_blank" href="{{ '/chuan-hong-seng' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -138,7 +138,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chuen%20Cheong%20Food/chuen_cheong_food_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Chuen%20Cheong%20Food/chuen_cheong_food_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -149,7 +149,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer and distributor of superior quality Soya Sauce, Chilli Sauce and other condiments.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chuen-cheong-food">
+			<a target="_blank" href="{{ '/chuen-cheong-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -159,7 +159,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chung%20Hwa/chung_hwa_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Chung%20Hwa/chung_hwa_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -170,7 +170,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of sauces, pastes and condiments. Distributor of international groceries and frozen products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chung-hwa">
+			<a target="_blank" href="{{ '/chung-hwa' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -180,7 +180,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ckl_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/ckl_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -191,7 +191,7 @@ third_nav_title: Product Categories
 			<small>Dry goods supplier and trader - cooking oil, rice, salt, sugar etc.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/cklinvestments">
+			<a target="_blank" href="{{ '/cklinvestments' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -201,7 +201,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Craft%20Union/craft_union_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Craft%20Union/craft_union_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -212,7 +212,7 @@ third_nav_title: Product Categories
 			<small>Distributor of a wide range of food products and beverages.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/craft-union">
+			<a target="_blank" href="{{ '/craft-union' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -222,7 +222,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Dapoer%20Peg/dapoer_peg_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Dapoer%20Peg/dapoer_peg_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -233,7 +233,7 @@ third_nav_title: Product Categories
 			<small>Manufactuer of authentic Indonesian cuisine and sauces.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/dapoer-peg">
+			<a target="_blank" href="{{ '/dapoer-peg' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -243,7 +243,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Davis%20Commodities/davis_commodities_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Davis%20Commodities/davis_commodities_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -254,7 +254,7 @@ third_nav_title: Product Categories
 			<small>A Singapore agri-commodity company with a reach not only to the Asia but to the rest of the world.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/davis-commodities">
+			<a target="_blank" href="{{ '/davis-commodities' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -264,7 +264,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ha%20Li%20Fa/ha_li_fa_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Ha%20Li%20Fa/ha_li_fa_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -275,7 +275,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of Surimi Based Product.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ha-li-fa">
+			<a target="_blank" href="{{ '/ha-li-fa' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -285,7 +285,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/HSG%20Global/hsg_global_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/HSG%20Global/hsg_global_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -296,7 +296,7 @@ third_nav_title: Product Categories
 			<small>Halal Food Importer/Exporter and Distribution Company.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hsg-global">
+			<a target="_blank" href="{{ '/hsg-global' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -306,7 +306,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Jumain%20Sataysfaction/jumain_sataysfaction_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Jumain%20Sataysfaction/jumain_sataysfaction_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -317,7 +317,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of Satay and Satay sauce.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/jumain-sataysfaction">
+			<a target="_blank" href="{{ '/jumain-sataysfaction' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -327,7 +327,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/mhy_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/mhy_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -338,7 +338,7 @@ third_nav_title: Product Categories
 			<small>Producer and distributer of peanuts, noodles, soya sauce.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/mei-heong-yuen">
+			<a target="_blank" href="{{ '/mei-heong-yuen' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -348,7 +348,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Oh%20Chin%20Hing/oh_chin_hing_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Oh%20Chin%20Hing/oh_chin_hing_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -359,7 +359,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of sesame oil.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/oh-chin-hing">
+			<a target="_blank" href="{{ '/oh-chin-hing' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -369,7 +369,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ongs_food_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/ongs_food_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -380,7 +380,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of sauces and condiments.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ongs-food">
+			<a target="_blank" href="{{ '/ongs-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -390,7 +390,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/o_nya_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/o_nya_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -401,7 +401,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of authentic nyonya paste.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/onya-food">
+			<a target="_blank" href="{{ '/onya-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -411,7 +411,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Prima%20Food/prima_food_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Prima%20Food/prima_food_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -422,7 +422,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer and distributor of ready-to-cook meal sauce kits and cooking sauces.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/prima-food">
+			<a target="_blank" href="{{ '/prima-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -432,7 +432,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ruby%20Innfotry/ruby_innfotry_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Ruby%20Innfotry/ruby_innfotry_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -443,7 +443,7 @@ third_nav_title: Product Categories
 			<small>Distributor for Mamee Food Service products for Singapore.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ruby-innfotry">
+			<a target="_blank" href="{{ '/ruby-innfotry' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -453,7 +453,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/San%20Sesan/san_sesan_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/San%20Sesan/san_sesan_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -464,7 +464,7 @@ third_nav_title: Product Categories
 			<small>Food distributor and brand builder, specializing in wholesale trade and the introduction of international food brands into Singapore's retail landscape.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/san-sesan">
+			<a target="_blank" href="{{ '/san-sesan' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -474,7 +474,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Seahs%20Spices/seahs_spices_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Seahs%20Spices/seahs_spices_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -485,7 +485,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer and supplier of authentic Singapore Style Oriental Taste mixes.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/seahs-spices">
+			<a target="_blank" href="{{ '/seahs-spices' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -495,7 +495,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Sim%20Soon%20Heng/sim_soon_heng_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Sim%20Soon%20Heng/sim_soon_heng_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -506,7 +506,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of sauces, pastes and marinades.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/sim-soon-heng">
+			<a target="_blank" href="{{ '/sim-soon-heng' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -516,7 +516,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/shd_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/shd_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -527,7 +527,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of high quality sauces and pre-mixes.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/sin-hwa-dee">
+			<a target="_blank" href="{{ '/sin-hwa-dee' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -537,7 +537,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Sing%20Long%20Foodstuff/sing_long_foodstuff_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Sing%20Long%20Foodstuff/sing_long_foodstuff_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -548,7 +548,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of savory sauces and instant local dessert products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/sing-long-foodstuff">
+			<a target="_blank" href="{{ '/sing-long-foodstuff' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -558,7 +558,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/svex_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/svex_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -569,7 +569,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of dry goods products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/sri-vinayaka">
+			<a target="_blank" href="{{ '/sri-vinayaka' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -579,7 +579,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Tai%20Hua%20Food/tai_hua_food_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Tai%20Hua%20Food/tai_hua_food_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -590,7 +590,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of soy sauce, braising sauce, ready to cook sauce, oyster sauce, table condiments, trading of commodity.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/tai-hua-food">
+			<a target="_blank" href="{{ '/tai-hua-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -600,7 +600,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Tan%20Seng%20Kee/tan_seng_kee_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Tan%20Seng%20Kee/tan_seng_kee_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -611,7 +611,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of rice and wheat-based noodle products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/tan-seng-kee">
+			<a target="_blank" href="{{ '/tan-seng-kee' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -621,7 +621,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Thai%20Sing%20Foodstuffs/thai_sing_foodstuffs_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Thai%20Sing%20Foodstuffs/thai_sing_foodstuffs_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -632,7 +632,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of wide range of Chinese sauces and Nonya paste products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/thai-sing-foodstuffs">
+			<a target="_blank" href="{{ '/thai-sing-foodstuffs' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -642,7 +642,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/TopChoice/topchoice_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/TopChoice/topchoice_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -653,7 +653,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer and distributor of premium quality ready-to-eat food products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/topchoice">
+			<a target="_blank" href="{{ '/topchoice' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -663,7 +663,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Vismark%20Food%20Industries/vismark_food_industries_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Vismark%20Food%20Industries/vismark_food_industries_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -674,7 +674,7 @@ third_nav_title: Product Categories
 			<small>Asian food manufacturer and purveyor.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/vismark-food-industries">
+			<a target="_blank" href="{{ '/vismark-food-industries' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -684,7 +684,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/wahyu_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/wahyu_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -695,7 +695,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of pastries and crackers.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/wahyu-brand">
+			<a target="_blank" href="{{ '/wahyu-brand' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -705,7 +705,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Yeo%20Hiap%20Seng/yeo_hiap_seng_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Yeo%20Hiap%20Seng/yeo_hiap_seng_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -716,7 +716,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of the Yeo's brand food and beverages.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/yeo-hiap-seng">
+			<a target="_blank" href="{{ '/yeo-hiap-seng' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>

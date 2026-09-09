@@ -7,7 +7,7 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/C%20S%20Tay/c_s_tay_logo.png">
+			<img src="{{ '/images/C%20S%20Tay/c_s_tay_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>C S Tay Foods Pte Ltd</b></h4>
@@ -56,7 +56,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/C%20S%20Tay/c_s_tay_product_01.jpg">
+			<img src="{{ '/images/C%20S%20Tay/c_s_tay_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Skinless Chicken Whole Breast Fillet</h6>
@@ -65,7 +65,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/C%20S%20Tay/c_s_tay_product_02.jpg">
+			<img src="{{ '/images/C%20S%20Tay/c_s_tay_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Japanese Crispy Chicken Seaweed</h6>
@@ -74,7 +74,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/C%20S%20Tay/c_s_tay_product_03.jpg">
+			<img src="{{ '/images/C%20S%20Tay/c_s_tay_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Tatumoto Japanese Pork Sausage Original</h6>
@@ -83,7 +83,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/C%20S%20Tay/c_s_tay_product_04.jpg">
+			<img src="{{ '/images/C%20S%20Tay/c_s_tay_product_04.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Hainanese Chicken Thigh</h6>

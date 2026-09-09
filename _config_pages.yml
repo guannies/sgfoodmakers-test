@@ -1,0 +1,16 @@
+# Overrides layered on top of _config.yml for the GitHub Pages test deploy.
+#
+# The live Isomer site is served from the root of https://www.sgfoodmakers.sg,
+# so _config.yml keeps `baseurl: ""`. GitHub Pages serves this repo as a
+# *project* site under /sgfoodmakers-test/, so the build needs a baseurl.
+#
+# Kept in a separate file (rather than edited into _config.yml) so the values
+# committed for production stay untouched and `bundle exec jekyll serve` locally
+# still behaves like the live site.
+#
+# Used as: bundle exec jekyll build --config _config.yml,_config_pages.yml
+#
+# If you later point a custom domain at this deploy, set baseurl back to ""
+# and update url — and update PAGES_BASEURL in .github/workflows/deploy.yml.
+url: https://guannies.github.io
+baseurl: /sgfoodmakers-test

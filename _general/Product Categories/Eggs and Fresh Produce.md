@@ -12,7 +12,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Arianetech/arianetech_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Arianetech/arianetech_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -23,7 +23,7 @@ variant: markdown
 			<small>Agritech company specializing in advanced indoor vertical farming solutions.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/arianetech">
+			<a target="_blank" href="{{ '/arianetech' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -33,7 +33,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chews%20Agriculture/chews_agriculture_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Chews%20Agriculture/chews_agriculture_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -46,7 +46,7 @@ variant: markdown
 			<small>Fresh eggs producer.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chews-agriculture">
+			<a target="_blank" href="{{ '/chews-agriculture' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -56,7 +56,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chitose%20Agriculture/chitose_agriculture_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Chitose%20Agriculture/chitose_agriculture_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -69,7 +69,7 @@ variant: markdown
 			<small>Producer of high-quality agricultural produce.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chitose-agriculture">
+			<a target="_blank" href="{{ '/chitose-agriculture' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -79,7 +79,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/commonwealth_greens_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/commonwealth_greens_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -92,7 +92,7 @@ variant: markdown
 			<small>Vegetables and farm systems.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/commonwealth-greens-alpha">
+			<a target="_blank" href="{{ '/commonwealth-greens-alpha' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -102,7 +102,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/float_foods_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/float_foods_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -115,7 +115,7 @@ variant: markdown
 			<small>Egg substitute products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/float-foods">
+			<a target="_blank" href="{{ '/float-foods' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -125,7 +125,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/green_harvest_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/green_harvest_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -138,7 +138,7 @@ variant: markdown
 			<small>Growing and selling of vegetables and greenhouse construction.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/green-harvest">
+			<a target="_blank" href="{{ '/green-harvest' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -148,7 +148,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hen%20Tick%20Foods/hen_tick_foods_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Hen%20Tick%20Foods/hen_tick_foods_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -159,7 +159,7 @@ variant: markdown
 			<small>Supplier of chilled and frozen food products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hen-tick-foods">
+			<a target="_blank" href="{{ '/hen-tick-foods' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -169,7 +169,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/maxco.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/maxco.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -180,7 +180,7 @@ variant: markdown
 			<small>Fresh fruits and vegetables in various cuts.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/maxco-food-industries">
+			<a target="_blank" href="{{ '/maxco-food-industries' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -190,7 +190,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/meod_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/meod_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -201,7 +201,7 @@ variant: markdown
 			<small>Urban Farming growing solutions, leafy vegetables and fruits vegetables.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/meod">
+			<a target="_blank" href="{{ '/meod' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -211,7 +211,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Monoluxury/monoluxury_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Monoluxury/monoluxury_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -222,7 +222,7 @@ variant: markdown
 			<small>Specialise in hydroponic salad.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/monoluxury">
+			<a target="_blank" href="{{ '/monoluxury' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -232,7 +232,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/nnagri.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/nnagri.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -243,7 +243,7 @@ variant: markdown
 			<small>Producer of fresh eggs, pasteurized fresh eggs, pasteurized egg products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/n-n-agriculture">
+			<a target="_blank" href="{{ '/n-n-agriculture' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -253,7 +253,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Nosh%20Produce/nosh_produce_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Nosh%20Produce/nosh_produce_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -264,7 +264,7 @@ variant: markdown
 			<small>Indoor vertical farm, specialised in growing uniquely flavourful Edible Flowers and Speciality Greens of the highest quality.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/nosh-produce">
+			<a target="_blank" href="{{ '/nosh-produce' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -274,7 +274,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/U%20Say%20Marketing/u_say_marketing_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/U%20Say%20Marketing/u_say_marketing_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -285,7 +285,7 @@ variant: markdown
 			<small>Food service and ingredients supplier.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/u-say-marketing">
+			<a target="_blank" href="{{ '/u-say-marketing' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>

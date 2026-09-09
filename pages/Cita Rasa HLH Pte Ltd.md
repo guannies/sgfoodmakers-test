@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_logo.png">
+			<img src="{{ '/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Cita Rasa HLH Pte Ltd</b></h4>
@@ -60,7 +60,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_01.jpg">
+			<img src="{{ '/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Fried Bee Hoon</h6>
@@ -69,7 +69,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_02.jpg">
+			<img src="{{ '/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Crispy Prawn Cracker</h6>
@@ -78,7 +78,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_03.jpg">
+			<img src="{{ '/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Signature Dry Laksa</h6>
@@ -87,7 +87,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_04.jpg">
+			<img src="{{ '/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_04.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Shrimply Good Shrimp Frits</h6>

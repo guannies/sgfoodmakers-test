@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="/images/golden_bridge_logo.jpg">
+<img src="{{ '/images/golden_bridge_logo.jpg' | relative_url }}">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +75,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/golden_bridge_product1.jpg">
+<img src="{{ '/images/golden_bridge_product1.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Golden Bridge Pork Luncheon Meat
@@ -86,7 +86,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/golden_bridge_product2.jpg">
+<img src="{{ '/images/golden_bridge_product2.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Golden Bridge Stewed Pork series
@@ -97,7 +97,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/golden_bridge_product3.PNG">
+<img src="{{ '/images/golden_bridge_product3.PNG' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Golden Bridge Waxed Sausages series
@@ -108,7 +108,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/goldenbridge4.png">
+<img src="{{ '/images/goldenbridge4.png' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Kelly's Luncheon Ham Series
@@ -119,7 +119,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/goldenbridge5.png">
+<img src="{{ '/images/goldenbridge5.png' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Kelly's Premium Ham Series

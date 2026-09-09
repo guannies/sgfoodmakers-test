@@ -7,7 +7,7 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Delightex/delightex_logo.png">
+			<img src="{{ '/images/Delightex/delightex_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Delightex Pte Ltd</b></h4>
@@ -57,7 +57,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Delightex/delightex_product_01.jpg">
+			<img src="{{ '/images/Delightex/delightex_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Energising Chews (20s)</h6>
@@ -66,7 +66,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Delightex/delightex_product_02.jpg">
+			<img src="{{ '/images/Delightex/delightex_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Uplifting Chew (20s)</h6>
@@ -75,7 +75,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Delightex/delightex_product_03.jpg">
+			<img src="{{ '/images/Delightex/delightex_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Calming Chews (20s)</h6>

@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Red%20Lips/red_lips_logo.png">
+			<img src="{{ '/images/Red%20Lips/red_lips_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Red Lips Foods Pte Ltd</b></h4>
@@ -61,7 +61,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Red%20Lips/red_lips_product_01.jpg">
+			<img src="{{ '/images/Red%20Lips/red_lips_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Kueh Pie Tee Cups</h6>
@@ -70,7 +70,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Red%20Lips/red_lips_product_02.jpg">
+			<img src="{{ '/images/Red%20Lips/red_lips_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Gourmet Shells</h6>

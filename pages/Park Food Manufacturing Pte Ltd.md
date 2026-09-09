@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="/images/park_food_logo.jpg">
+<img src="{{ '/images/park_food_logo.jpg' | relative_url }}">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +75,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/park_food_product1.jpg">
+<img src="{{ '/images/park_food_product1.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Premium Taiwan Gong Wan - Shiitake Mushroom
@@ -86,7 +86,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/park_food_product2.jpg">
+<img src="{{ '/images/park_food_product2.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Handmade Chao Shan Beef Ball - Original
@@ -97,7 +97,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/park_food_product3.jpg">
+<img src="{{ '/images/park_food_product3.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lion Dance Brand, Pork Ball
@@ -108,7 +108,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/park_food_product4.jpg">
+<img src="{{ '/images/park_food_product4.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lion Dance Brand, Mushroom Pork Ball
@@ -119,7 +119,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/park_food_product5.jpg">
+<img src="{{ '/images/park_food_product5.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lion Dance Brand, Bao Xin Wan - Original

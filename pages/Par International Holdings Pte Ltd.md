@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="/images/par_international_logo.png">
+<img src="{{ '/images/par_international_logo.png' | relative_url }}">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -76,7 +76,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/par_international_product1.jpg">
+<img src="{{ '/images/par_international_product1.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">French Flour and Mixes
@@ -87,7 +87,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/par_international_product2.jpg">
+<img src="{{ '/images/par_international_product2.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Rice Flour, Glutinous Rice Flour, Tapioca Starch, Tapioca Pearl
@@ -98,7 +98,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/par_international_product3.jpg">
+<img src="{{ '/images/par_international_product3.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Thai Street Food Premixes and Gluten Free Premixes
@@ -109,7 +109,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/par_international_product4.jpg">
+<img src="{{ '/images/par_international_product4.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Couplet Pearl Sugar, Couplet Chocolate Pearl Sugar
@@ -120,7 +120,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/par_international_product5.jpg">
+<img src="{{ '/images/par_international_product5.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">PAR Brand Wheat Flour

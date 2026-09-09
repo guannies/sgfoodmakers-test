@@ -60,11 +60,11 @@ List of the Intangible Cultural Heritage of Humanity in 2020.</p>
 <p><strong>Singapore in a Snapshot (2021)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_Stat_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="{{ '/images/Singapore_Stat_1.png' | relative_url }}">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_Stat_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="{{ '/images/Singapore_Stat_2.png' | relative_url }}">
 </div>
 <p></p>
 <p>&nbsp;</p>

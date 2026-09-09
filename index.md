@@ -18,7 +18,7 @@ sections:
           url: /why-singapore
         - title: What's on in Singapore?
           description: Explore our F&B ecosystem!
-          url: /events/fha2024/
+          url: /fha-2026/
   - infobar:
       title: Singapore's Food Manufacturing Industry
       description: Characterised by diversity, passion, and innovation behind every

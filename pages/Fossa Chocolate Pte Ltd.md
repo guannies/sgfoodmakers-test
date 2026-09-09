@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div style="display: flex; flex-wrap: wrap;" class="flex-container"> 
 <div style="flex: 1 1 40%; display: block;" class="card sgds">
-<img src="/images/fossa_chocolate_logo2.png">
+<img src="{{ '/images/fossa_chocolate_logo2.png' | relative_url }}">
 </div> 
 <div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -76,7 +76,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="/images/fossa_chocolate_1.png">
+<img src="{{ '/images/fossa_chocolate_1.png' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Nanyang Kopi Dark Milk Chocolate
@@ -87,7 +87,7 @@ variant: markdown
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="/images/fossa_chocolate_2.png">
+<img src="{{ '/images/fossa_chocolate_2.png' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Spicy Mala Chocolate

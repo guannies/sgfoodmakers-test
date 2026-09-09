@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Ha%20Li%20Fa/ha_li_fa_logo.png">
+			<img src="{{ '/images/Ha%20Li%20Fa/ha_li_fa_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Ha Li Fa Pte Ltd</b></h4>
@@ -59,7 +59,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Ha%20Li%20Fa/ha_li_fa_product_01.jpg">
+			<img src="{{ '/images/Ha%20Li%20Fa/ha_li_fa_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Premium White Fish Ball</h6>
@@ -68,7 +68,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Ha%20Li%20Fa/ha_li_fa_product_02.jpg">
+			<img src="{{ '/images/Ha%20Li%20Fa/ha_li_fa_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Plant Based Mushroom Ball</h6>
@@ -77,7 +77,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Ha%20Li%20Fa/ha_li_fa_product_03.jpg">
+			<img src="{{ '/images/Ha%20Li%20Fa/ha_li_fa_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Laksa Soup Paste</h6>
@@ -87,7 +87,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Ha%20Li%20Fa/ha_li_fa_product_04.jpg">
+			<img src="{{ '/images/Ha%20Li%20Fa/ha_li_fa_product_04.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">RTE Meal</h6>

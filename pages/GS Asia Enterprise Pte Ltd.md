@@ -7,7 +7,7 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/GS%20Asia/gs_asia_logo.png">
+			<img src="{{ '/images/GS%20Asia/gs_asia_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>GS Asia Enterprise Pte Ltd</b></h4>
@@ -56,7 +56,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/GS%20Asia/gs_asia_product_01.jpg">
+			<img src="{{ '/images/GS%20Asia/gs_asia_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Signature Dumplings</h6>
@@ -65,7 +65,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/GS%20Asia/gs_asia_product_02.jpg">
+			<img src="{{ '/images/GS%20Asia/gs_asia_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Meat Skewer</h6>
@@ -74,7 +74,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/GS%20Asia/gs_asia_product_03.jpg">
+			<img src="{{ '/images/GS%20Asia/gs_asia_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Signature Meatballs</h6>
@@ -83,7 +83,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/GS%20Asia/gs_asia_product_04.jpg">
+			<img src="{{ '/images/GS%20Asia/gs_asia_product_04.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Xiao Long Bao</h6>

@@ -18,6 +18,40 @@ colors:
 description: Find out more about Singapore Food Manufacturers' quality offerings!
 permalink: none
 baseurl: ""
+collections:
+  about-us:
+    output: true
+    order:
+      - Why Singapore.md
+      - Supported By.md
+  events:
+    output: true
+    order:
+      - FHA 2026.md
+      - Gulfood 2026.md
+      - Anuga 2025.md
+      - FHA 2025.md
+      - Gulfood 2025.md
+  general:
+    output: true
+    order:
+      - Overview.md
+      - Product Categories/.keep
+      - Product Categories/Bakery.md
+      - Product Categories/Beverages.md
+      - Product Categories/Condiments and Sauces.md
+      - Product Categories/Cooked Food.md
+      - Product Categories/Dairy.md
+      - Product Categories/Edible Oils and Fats.md
+      - Product Categories/Eggs and Fresh Produce.md
+      - Product Categories/Food Ingredients and Flavourings.md
+      - Product Categories/Meat.md
+      - Product Categories/Plant Based and Alternative Proteins.md
+      - Product Categories/Rice and Noodles.md
+      - Product Categories/Seafood.md
+      - Product Categories/Snacks and Confectionery.md
+      - Product Categories/Others.md
+      - Industry Partners.md
 exclude:
   - travis-script.js
   - .travis.yml

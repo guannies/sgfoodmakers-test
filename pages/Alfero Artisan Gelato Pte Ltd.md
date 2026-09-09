@@ -7,7 +7,7 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Alfero%20Artisan%20Gelato/alfero_artisan_gelato_logo.png">
+			<img src="{{ '/images/Alfero%20Artisan%20Gelato/alfero_artisan_gelato_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Alfero Artisan Gelato Pte Ltd</b></h4>
@@ -56,7 +56,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Alfero%20Artisan%20Gelato/alfero_artisan_gelato_product_01.jpg">
+			<img src="{{ '/images/Alfero%20Artisan%20Gelato/alfero_artisan_gelato_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Premium Artisanal Gelato (Italian Style)</h6>
@@ -65,7 +65,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Alfero%20Artisan%20Gelato/alfero_artisan_gelato_product_02.jpg">
+			<img src="{{ '/images/Alfero%20Artisan%20Gelato/alfero_artisan_gelato_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Fruit Sorbets (Dairy-Free, Vegan)</h6>
@@ -74,7 +74,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Alfero%20Artisan%20Gelato/alfero_artisan_gelato_product_03.jpg">
+			<img src="{{ '/images/Alfero%20Artisan%20Gelato/alfero_artisan_gelato_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Custom Gelato Solutions for HoReCa</h6>

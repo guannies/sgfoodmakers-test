@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_logo.png">
+			<img src="{{ '/images/Tri%20Gateway%20Exports/tri_gateway_exports_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tri Gateway Exports</b></h4>
@@ -59,7 +59,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_01.jpg">
+			<img src="{{ '/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Perfect Choice Potato Chips</h6>
@@ -68,7 +68,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_02.jpg">
+			<img src="{{ '/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Sweetened Condensed Milk</h6>
@@ -77,7 +77,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_03.jpg">
+			<img src="{{ '/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Perfect Choice Honey</h6>

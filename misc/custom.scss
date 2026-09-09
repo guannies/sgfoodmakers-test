@@ -335,3 +335,30 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+// Exhibitor card grids (events pavilion pages, product category pages):
+// cards in the same row are already equal height via the flex row's default
+// stretch, but the "Visit their page" link still lands at a different
+// vertical position per card because description text length varies. Turn
+// each card into a flex column so the link can be pinned to the bottom.
+.card.sgds:has(> .sgds-card-content) {
+  display: flex !important;
+  flex-direction: column;
+}
+
+.sgds-card-content {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+
+  // Reserve space for a 2-line title so a wrapped title (e.g. "Alfero
+  // Artisan Gelato Pte Ltd") doesn't push its description lower than a
+  // card with a single-line title in the same row.
+  > figure.sgds-content {
+    min-height: calc(2 * 1lh);
+  }
+
+  > p:last-child {
+    margin-top: auto;
+  }
+}

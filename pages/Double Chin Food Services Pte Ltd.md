@@ -7,7 +7,7 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Double%20Chin/double_chin_logo.png">
+			<img src="{{ '/images/Double%20Chin/double_chin_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Double Chin Food Services Pte Ltd</b></h4>
@@ -54,7 +54,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Double%20Chin/double_chin_product_01.jpg">
+			<img src="{{ '/images/Double%20Chin/double_chin_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Humpy Doo</h6>
@@ -63,7 +63,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Double%20Chin/double_chin_product_02.jpg">
+			<img src="{{ '/images/Double%20Chin/double_chin_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">River Prawns</h6>

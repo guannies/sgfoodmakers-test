@@ -7,7 +7,7 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Enhance%20SG/enhance_sg_logo.png">
+			<img src="{{ '/images/Enhance%20SG/enhance_sg_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Enhance SG Pte Ltd</b></h4>
@@ -56,7 +56,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Enhance%20SG/enhance_sg_product_01.jpg">
+			<img src="{{ '/images/Enhance%20SG/enhance_sg_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">BBQ Chicken Coin</h6>
@@ -65,7 +65,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Enhance%20SG/enhance_sg_product_02.jpg">
+			<img src="{{ '/images/Enhance%20SG/enhance_sg_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">BBQ Rendang Beef</h6>
@@ -74,7 +74,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Enhance%20SG/enhance_sg_product_03.jpg">
+			<img src="{{ '/images/Enhance%20SG/enhance_sg_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Sambal Chicken Floss</h6>
@@ -83,7 +83,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Enhance%20SG/enhance_sg_product_04.jpg">
+			<img src="{{ '/images/Enhance%20SG/enhance_sg_product_04.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Beef Floss</h6>

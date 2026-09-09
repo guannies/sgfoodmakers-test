@@ -12,7 +12,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Amoy%20Canning%20Corporation/amoy_canning_corporation_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Amoy%20Canning%20Corporation/amoy_canning_corporation_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -23,7 +23,7 @@ variant: markdown
 			<small>Manufacturer of canned meat, seafood items, vegetable condiments, sauces, curry mixes and canned drinks.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/amoy-canning-corporation">
+			<a target="_blank" href="{{ '/amoy-canning-corporation' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -33,7 +33,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/C%20S%20Tay/c_s_tay_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/C%20S%20Tay/c_s_tay_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -44,7 +44,7 @@ variant: markdown
 			<small>Chilled &amp; frozen food products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/c-s-tay">
+			<a target="_blank" href="{{ '/c-s-tay' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -54,7 +54,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chinatown%20Food/chinatown_food_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Chinatown%20Food/chinatown_food_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -65,7 +65,7 @@ variant: markdown
 			<small>Manufactuer of both Oriental and non-Oriental frozen food products under the worldwide trademarks, 'Chinatown' and 'Amstar'.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chinatown-food">
+			<a target="_blank" href="{{ '/chinatown-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -75,7 +75,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chung%20Hwa/chung_hwa_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Chung%20Hwa/chung_hwa_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -86,7 +86,7 @@ variant: markdown
 			<small>Manufacturer of sauces, pastes and condiments. Distributor of international groceries and frozen products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chung-hwa">
+			<a target="_blank" href="{{ '/chung-hwa' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -96,7 +96,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -107,7 +107,7 @@ variant: markdown
 			<small>Manufacturer of Ngoh Hiang, Prawn Crackers and Traditional Chinese Snacks.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/cita-rasa-hlh">
+			<a target="_blank" href="{{ '/cita-rasa-hlh' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -117,7 +117,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Dapoer%20Peg/dapoer_peg_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Dapoer%20Peg/dapoer_peg_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -128,7 +128,7 @@ variant: markdown
 			<small>Manufactuer of authentic Indonesian cuisine and sauces.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/dapoer-peg">
+			<a target="_blank" href="{{ '/dapoer-peg' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -138,7 +138,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/DK%20Food/dk_food_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/DK%20Food/dk_food_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -149,7 +149,7 @@ variant: markdown
 			<small>Supply premium and safe selections of Halal-certified meat as well as a wide variety of high-quality foods.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/dk-food">
+			<a target="_blank" href="{{ '/dk-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -159,7 +159,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Dotzu/dotzu_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Dotzu/dotzu_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -170,7 +170,7 @@ variant: markdown
 			<small>Specializes in offering a diverse selection of high-quality Japanese products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/dotzu">
+			<a target="_blank" href="{{ '/dotzu' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -180,7 +180,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ee%20Hui%20Food/ee_hui_food_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Ee%20Hui%20Food/ee_hui_food_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -191,7 +191,7 @@ variant: markdown
 			<small>Manufacturer of fish balls, fish cake and yong tau foo.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ee-hui-food">
+			<a target="_blank" href="{{ '/ee-hui-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -201,7 +201,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/F%20G%20Food/f_g_food_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/F%20G%20Food/f_g_food_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -212,7 +212,7 @@ variant: markdown
 			<small>Manufacturer of meat and meat products for distribution and retail sales.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/f-g-food">
+			<a target="_blank" href="{{ '/f-g-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -222,7 +222,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/FG%20Food%20Industries/fg_food_industries_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/FG%20Food%20Industries/fg_food_industries_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -233,7 +233,7 @@ variant: markdown
 			<small>Manufacturer of frozen ready-meal.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/fg-food-industries">
+			<a target="_blank" href="{{ '/fg-food-industries' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -243,7 +243,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Green%20Capsule%20Organics/green_capsule_organics_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Green%20Capsule%20Organics/green_capsule_organics_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -254,7 +254,7 @@ variant: markdown
 			<small>Organic food and beverages, nutritious snacks and baby foods.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/green-capsule-organics">
+			<a target="_blank" href="{{ '/green-capsule-organics' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -264,7 +264,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/green_rebel_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/green_rebel_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -275,7 +275,7 @@ variant: markdown
 			<small>Specialises in whole cut plant-based beef, chicken, and cheese.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/green-rebel-foods">
+			<a target="_blank" href="{{ '/green-rebel-foods' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -285,7 +285,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Growthwell/growthwell_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Growthwell/growthwell_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -296,7 +296,7 @@ variant: markdown
 			<small>Plant-based food manufacturer with over 35 years of manufacturing plant-based food experiences.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/growthwell">
+			<a target="_blank" href="{{ '/growthwell' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -306,7 +306,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/GS%20Asia/gs_asia_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/GS%20Asia/gs_asia_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -317,7 +317,7 @@ variant: markdown
 			<small>Specialises in high-quality frozen foods and wholesale meat products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/gs-asia">
+			<a target="_blank" href="{{ '/gs-asia' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -327,7 +327,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ha%20Li%20Fa/ha_li_fa_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Ha%20Li%20Fa/ha_li_fa_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -338,7 +338,7 @@ variant: markdown
 			<small>Manufacturer of Surimi Based Product.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ha-li-fa">
+			<a target="_blank" href="{{ '/ha-li-fa' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -348,7 +348,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hen%20Tick%20Foods/hen_tick_foods_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Hen%20Tick%20Foods/hen_tick_foods_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -359,7 +359,7 @@ variant: markdown
 			<small>Supplier of chilled and frozen food products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hen-tick-foods">
+			<a target="_blank" href="{{ '/hen-tick-foods' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -369,7 +369,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hlh_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/hlh_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -380,7 +380,7 @@ variant: markdown
 			<small>Manufacturer of Ngoh Hiang and Traditional Chinese Snacks.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hock-lian-huat">
+			<a target="_blank" href="{{ '/hock-lian-huat' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -390,7 +390,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hong%20Xin%20Da/hong_xin_da_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Hong%20Xin%20Da/hong_xin_da_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -401,7 +401,7 @@ variant: markdown
 			<small>One-Stop Supply Chain Powerhouse, specializing in Farm-To-Table F&amp;B solutions &amp; the strategic development of trendy FMCG brands.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hong-xin-da">
+			<a target="_blank" href="{{ '/hong-xin-da' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -411,7 +411,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hotbake%20Innovations/hotbake_innovations_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Hotbake%20Innovations/hotbake_innovations_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -422,7 +422,7 @@ variant: markdown
 			<small>Manufacturer of healthier choice sandwiches.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hotbake-innovations">
+			<a target="_blank" href="{{ '/hotbake-innovations' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -432,7 +432,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hougang%20Otah/hougang_otah_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Hougang%20Otah/hougang_otah_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -443,7 +443,7 @@ variant: markdown
 			<small>Manufacturing of otah otah.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hougang-otah">
+			<a target="_blank" href="{{ '/hougang-otah' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -453,7 +453,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/jr_foods_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/jr_foods_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -464,7 +464,7 @@ variant: markdown
 			<small>Manufacturing of food and catering.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/jr-foods">
+			<a target="_blank" href="{{ '/jr-foods' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -474,7 +474,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/KG%20Food/kgfood_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/KG%20Food/kgfood_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -485,7 +485,7 @@ variant: markdown
 			<small>Manufacturer and distributor of halal certified buns and dim sum.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/kgfood">
+			<a target="_blank" href="{{ '/kgfood' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -495,7 +495,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Kiomkee/kiomkee_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Kiomkee/kiomkee_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -506,7 +506,7 @@ variant: markdown
 			<small>Manufacturer of dim sum.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/kiomkee">
+			<a target="_blank" href="{{ '/kiomkee' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -516,7 +516,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/KKF/kkf_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/KKF/kkf_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -527,7 +527,7 @@ variant: markdown
 			<small>Manufacturer of Halal dim sum.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/kkf">
+			<a target="_blank" href="{{ '/kkf' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -537,7 +537,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -548,7 +548,7 @@ variant: markdown
 			<small>Manufacturer of assorted dim sum and steamed buns.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/kong-guan-dumpling">
+			<a target="_blank" href="{{ '/kong-guan-dumpling' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -558,7 +558,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Lee%20Wee%20Brothers/lee_wee_brothers_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Lee%20Wee%20Brothers/lee_wee_brothers_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -569,7 +569,7 @@ variant: markdown
 			<small>Specialise in Singapore cuisine such as Otah, Nasi Lemak &amp; Local Delights.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/lee-wee-brothers">
+			<a target="_blank" href="{{ '/lee-wee-brothers' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -579,7 +579,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/leo_satay_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/leo_satay_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -590,7 +590,7 @@ variant: markdown
 			<small>Manufacturer and distributer of Satay.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/leo-satay-food">
+			<a target="_blank" href="{{ '/leo-satay-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -600,7 +600,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Leong%20Guan%20Food/leong_guan_food_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Leong%20Guan%20Food/leong_guan_food_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -611,7 +611,7 @@ variant: markdown
 			<small>Manufacturer of noodles and beancurd products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/leong-guan-food">
+			<a target="_blank" href="{{ '/leong-guan-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -621,7 +621,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Lim%20Kee%20Food/lim_kee_food_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Lim%20Kee%20Food/lim_kee_food_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -632,7 +632,7 @@ variant: markdown
 			<small>Food Manufacturer and Distributor (Oriental Steamed Buns).</small>
 		</p>
 		<p>
-			<a target="_blank" href="/lim-kee-food">
+			<a target="_blank" href="{{ '/lim-kee-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -642,7 +642,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/mega_packer_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/mega_packer_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -653,7 +653,7 @@ variant: markdown
 			<small>Importer and exporter of raw frozen meat, cooked processed frozen meat and canned food.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/mega-packers-associate">
+			<a target="_blank" href="{{ '/mega-packers-associate' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -663,7 +663,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Mr%20Popiah/mr_popiah_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Mr%20Popiah/mr_popiah_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -674,7 +674,7 @@ variant: markdown
 			<small>Manufacturer of Pastry and Ready to Eat frozen products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/mr-popiah">
+			<a target="_blank" href="{{ '/mr-popiah' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -684,7 +684,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/OTS%20International/ots_international_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/OTS%20International/ots_international_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -695,7 +695,7 @@ variant: markdown
 			<small>Manufacturer of processed food - Chinese waxed sausages, canned meat, Taiwanese-style sausages, European-style chilled sausages, hams and cold cut.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ots-international">
+			<a target="_blank" href="{{ '/ots-international' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -705,7 +705,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/park_food_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/park_food_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -716,7 +716,7 @@ variant: markdown
 			<small>Manufacturer of lion dance brand meatballs.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/park-food-manufacturing">
+			<a target="_blank" href="{{ '/park-food-manufacturing' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -726,7 +726,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Pondok%20Abang/pondok_abang_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Pondok%20Abang/pondok_abang_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -737,7 +737,7 @@ variant: markdown
 			<small>Import and manufacturing of halal frozen food.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/pondok-abang">
+			<a target="_blank" href="{{ '/pondok-abang' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -747,7 +747,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/RM%20Food%20Manufacturing/rm_food_manufacturing_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/RM%20Food%20Manufacturing/rm_food_manufacturing_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -758,7 +758,7 @@ variant: markdown
 			<small>Specialises in retort, frozen-ready meals.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/rm-food-manufacturing">
+			<a target="_blank" href="{{ '/rm-food-manufacturing' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -768,7 +768,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Savory%20Origin/savory_origin_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Savory%20Origin/savory_origin_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -779,7 +779,7 @@ variant: markdown
 			<small>Manufacturer of "Otah" (Singapore Style Spicy Fish Cake), Otah-theme Snacks, Finger Food and Ready Meals</small>
 		</p>
 		<p>
-			<a target="_blank" href="/savory-origin">
+			<a target="_blank" href="{{ '/savory-origin' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -789,7 +789,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Sigma%20Food/sigma_food_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Sigma%20Food/sigma_food_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -800,7 +800,7 @@ variant: markdown
 			<small>Distributor of frozen foods, Ready-to-Eat Meal.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/sigma-food">
+			<a target="_blank" href="{{ '/sigma-food' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -810,7 +810,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Sin%20Li%20Hin/sin_li_hin_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Sin%20Li%20Hin/sin_li_hin_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -821,7 +821,7 @@ variant: markdown
 			<small>Manufacturer and supplier of ready to cook frozen food and meal.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/sin-li-hin">
+			<a target="_blank" href="{{ '/sin-li-hin' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -831,7 +831,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Sin%20Mui%20Heng/sin_mui_heng_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Sin%20Mui%20Heng/sin_mui_heng_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -842,7 +842,7 @@ variant: markdown
 			<small>Manufacturer of dim sum.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/sin-mui-heng">
+			<a target="_blank" href="{{ '/sin-mui-heng' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -852,7 +852,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/sinstant_logo2.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/sinstant_logo2.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -863,7 +863,7 @@ variant: markdown
 			<small>Ready-to-cook and ready-to-eat Singaporean, Hong Kong, and Asian cuisine.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/sinstant">
+			<a target="_blank" href="{{ '/sinstant' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -873,7 +873,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/SMH%20Food%20International/smh_food_international_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/SMH%20Food%20International/smh_food_international_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -884,7 +884,7 @@ variant: markdown
 			<small>Manufacturer of assorted dim sum.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/smh-food-international">
+			<a target="_blank" href="{{ '/smh-food-international' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -894,7 +894,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/spw_food_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/spw_food_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -905,7 +905,7 @@ variant: markdown
 			<small>Frozen japanese mochi, glutinous rice balls and shark fin.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/spw-food-industries">
+			<a target="_blank" href="{{ '/spw-food-industries' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -915,7 +915,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Suvai%20Foods/suvai_foods_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Suvai%20Foods/suvai_foods_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -926,7 +926,7 @@ variant: markdown
 			<small>Manufacturer of tasty and healthy Indian food products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/suvai-foods">
+			<a target="_blank" href="{{ '/suvai-foods' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -936,7 +936,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Tee%20Yih%20Jia/tee_yih_jia_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Tee%20Yih%20Jia/tee_yih_jia_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -947,7 +947,7 @@ variant: markdown
 			<small>Manufacturer of frozen convenience food products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/tee-yih-jia">
+			<a target="_blank" href="{{ '/tee-yih-jia' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -957,7 +957,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/soup_spoon_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/soup_spoon_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -968,7 +968,7 @@ variant: markdown
 			<small>Manufacturer of take home soup packs.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/the-soup-spoon">
+			<a target="_blank" href="{{ '/the-soup-spoon' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -978,7 +978,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/TopChoice/topchoice_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/TopChoice/topchoice_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -989,7 +989,7 @@ variant: markdown
 			<small>Manufacturer and distributor of premium quality ready-to-eat food products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/topchoice">
+			<a target="_blank" href="{{ '/topchoice' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -999,7 +999,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Vismark%20Food%20Industries/vismark_food_industries_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Vismark%20Food%20Industries/vismark_food_industries_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -1010,7 +1010,7 @@ variant: markdown
 			<small>Asian food manufacturer and purveyor.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/vismark-food-industries">
+			<a target="_blank" href="{{ '/vismark-food-industries' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -1020,7 +1020,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Xin%20Jia%20Fu/xin_jia_fu_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Xin%20Jia%20Fu/xin_jia_fu_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -1031,7 +1031,7 @@ variant: markdown
 			<small>Manufacturer of dumplings, steamed buns and fresh-made noodles.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/xin-jia-fu">
+			<a target="_blank" href="{{ '/xin-jia-fu' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -1041,7 +1041,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/You%20Tiao%20Man/you_tiao_man_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/You%20Tiao%20Man/you_tiao_man_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -1052,7 +1052,7 @@ variant: markdown
 			<small>Manufacturer and supplier of Halal You Tiao and Otah.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/you-tiao-man">
+			<a target="_blank" href="{{ '/you-tiao-man' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
