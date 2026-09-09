@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_logo.png">
+			<img src="{{ '/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Lek Lim Nonya Cake Trading Pte Ltd</b></h4>
@@ -59,7 +59,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_product_01.jpg">
+			<img src="{{ '/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Frozen Rainbow Layered Cake</h6>
@@ -68,7 +68,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_product_02.jpg">
+			<img src="{{ '/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Pandan Sticky Rice Cake</h6>
@@ -77,7 +77,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_product_03.jpg">
+			<img src="{{ '/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Cassava &amp; Coconut Cake</h6>
@@ -86,7 +86,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_product_04.jpg">
+			<img src="{{ '/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_product_04.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Signature Turnip Dumpling</h6>

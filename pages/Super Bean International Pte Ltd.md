@@ -7,7 +7,7 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Super%20Bean%20International/super_bean_international_logo.jpg">
+			<img src="{{ '/images/Super%20Bean%20International/super_bean_international_logo.jpg' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Super Bean International Pte Ltd</b></h4>
@@ -55,7 +55,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Super%20Bean%20International/super_bean_international_product_01.jpg">
+			<img src="{{ '/images/Super%20Bean%20International/super_bean_international_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Mr Bean Soy Granola Bar - Assorted Flavours</h6>
@@ -65,7 +65,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Super%20Bean%20International/super_bean_international_product_02.jpg">
+			<img src="{{ '/images/Super%20Bean%20International/super_bean_international_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Mr Bean Soy Granola - Bite Sized versions</h6>
@@ -75,7 +75,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Super%20Bean%20International/super_bean_international_product_03.jpg">
+			<img src="{{ '/images/Super%20Bean%20International/super_bean_international_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Mr Bean Soy Milk Pouch - Assorted Flavours</h6>

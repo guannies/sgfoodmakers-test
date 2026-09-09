@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_logo.jpg">
+			<img src="{{ '/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_logo.jpg' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Kong Guan Dumpling/Pau Mfr Pte Ltd</b></h4>
@@ -59,7 +59,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_product_01.jpg">
+			<img src="{{ '/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Salted Egg Custard Pau</h6>
@@ -68,7 +68,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_product_02.jpg">
+			<img src="{{ '/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Gourmet Pork Pau</h6>
@@ -77,7 +77,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_product_03.jpg">
+			<img src="{{ '/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Chicken Siew Mai</h6>
@@ -86,7 +86,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_product_04.jpg">
+			<img src="{{ '/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_product_04.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Lo Mai Kai</h6>

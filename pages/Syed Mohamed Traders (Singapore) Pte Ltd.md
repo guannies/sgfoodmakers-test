@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_logo.jpg">
+			<img src="{{ '/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_logo.jpg' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Syed Mohamed Traders (Singapore) Pte Ltd</b></h4>
@@ -59,7 +59,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_01.jpg">
+			<img src="{{ '/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Anarkali Super Extra Long Basmati Classic Rice</h6>
@@ -68,7 +68,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_02.jpg">
+			<img src="{{ '/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Syed Deglet Nour Selected Pitted Tunisian Dates</h6>
@@ -77,7 +77,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_03.jpg">
+			<img src="{{ '/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Chettinadu Chicken Masala Mix Powder</h6>
@@ -86,7 +86,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_04.jpg">
+			<img src="{{ '/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_04.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Arabian Mandhi Masala Mix Powder</h6>

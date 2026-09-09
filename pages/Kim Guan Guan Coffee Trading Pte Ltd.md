@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_logo.png">
+			<img src="{{ '/images/Kim%20Guan%20Guan/kim_guan_guan_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Kim Guan Guan Coffee Trading Pte Ltd</b></h4>
@@ -59,7 +59,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_01.jpg">
+			<img src="{{ '/images/Kim%20Guan%20Guan/kim_guan_guan_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Black Coffee without Sugar (Kopi O Kosong)</h6>
@@ -68,7 +68,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_02.jpg">
+			<img src="{{ '/images/Kim%20Guan%20Guan/kim_guan_guan_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Nanyang Traditional Coffee with Creamer &amp; Less Sugar (Kopi -C)</h6>
@@ -77,7 +77,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_03.jpg">
+			<img src="{{ '/images/Kim%20Guan%20Guan/kim_guan_guan_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Kim's Duet Variety Pack 5s</h6>
@@ -86,7 +86,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_04.jpg">
+			<img src="{{ '/images/Kim%20Guan%20Guan/kim_guan_guan_product_04.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Black Coffee without Sugar 15s (Kopi O Kosong Family Pack)</h6>

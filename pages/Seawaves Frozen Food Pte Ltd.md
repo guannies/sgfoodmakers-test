@@ -13,7 +13,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="/images/seawaves_logo.png">
+<img src="{{ '/images/seawaves_logo.png' | relative_url }}">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -79,7 +79,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/seawaves_product1.jpg">
+<img src="{{ '/images/seawaves_product1.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Signature Series ( Cuttlefish Balls, Prawn Balls, Cheese Cuttlefish Balls, Otah Cuttlefish Balls )
@@ -90,7 +90,7 @@ variant: markdown
 <div class="flex-image" style="display: block;">
 </div> 
 </div> 
-<img src="/images/seawaves_product2.jpg">
+<img src="{{ '/images/seawaves_product2.jpg' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Seawaves CuttleFish Paste
@@ -101,7 +101,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/seawaves-gyoza.png">
+<img src="{{ '/images/seawaves-gyoza.png' | relative_url }}">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Seawaves Seafood Pan Fried Mandu and Seawaves Seafood Shrimp Gyoza

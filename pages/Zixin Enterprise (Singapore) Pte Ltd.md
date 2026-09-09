@@ -7,7 +7,7 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Zixin%20Enterprise/zixin_enterprise_logo.png">
+			<img src="{{ '/images/Zixin%20Enterprise/zixin_enterprise_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Zixin Enterprise (Singapore) Pte Ltd</b></h4>
@@ -61,7 +61,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Zixin%20Enterprise/zixin_enterprise_product_01.jpg">
+			<img src="{{ '/images/Zixin%20Enterprise/zixin_enterprise_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Nutrirootz Crunch Sweet Potato Chips</h6>
@@ -70,7 +70,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Zixin%20Enterprise/zixin_enterprise_product_02.jpg">
+			<img src="{{ '/images/Zixin%20Enterprise/zixin_enterprise_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Nutrirootz Crunch Sweet Potato Fries</h6>
@@ -79,7 +79,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Zixin%20Enterprise/zixin_enterprise_product_03.jpg">
+			<img src="{{ '/images/Zixin%20Enterprise/zixin_enterprise_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">NutriRootz Sweet Potato Powder</h6>
@@ -88,7 +88,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Zixin%20Enterprise/zixin_enterprise_product_04.jpg">
+			<img src="{{ '/images/Zixin%20Enterprise/zixin_enterprise_product_04.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">NutriRootz Go Ready-To-Eat Sweet Potato</h6>

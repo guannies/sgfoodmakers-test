@@ -12,7 +12,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/actspand_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/actspand_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -25,7 +25,7 @@ third_nav_title: Product Categories
 			<small>Meet the Singapore Food Manufacturing companies with Other product varieties.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/actspand">
+			<a target="_blank" href="{{ '/actspand' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -35,7 +35,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/afn_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/afn_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -46,7 +46,7 @@ third_nav_title: Product Categories
 			<small>Region's leading food-focused TV channel that celebrates the unique Asian culinary experience.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/asian-food-network">
+			<a target="_blank" href="{{ '/asian-food-network' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -56,7 +56,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ha%20Li%20Fa/ha_li_fa_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Ha%20Li%20Fa/ha_li_fa_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -67,7 +67,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of Surimi Based Product.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ha-li-fa">
+			<a target="_blank" href="{{ '/ha-li-fa' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -77,7 +77,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hua%20Khiang/hua_khiang_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Hua%20Khiang/hua_khiang_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -88,7 +88,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of tofu products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hua-khiang">
+			<a target="_blank" href="{{ '/hua-khiang' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -98,7 +98,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/green_rebel_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/green_rebel_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -109,7 +109,7 @@ third_nav_title: Product Categories
 			<small>Specialises in whole cut plant-based beef, chicken, and cheese.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/green-rebel-foods">
+			<a target="_blank" href="{{ '/green-rebel-foods' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -119,7 +119,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Growthwell/growthwell_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Growthwell/growthwell_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -130,7 +130,7 @@ third_nav_title: Product Categories
 			<small>Plant-based food manufacturer with over 35 years of manufacturing plant-based food experiences.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/growthwell">
+			<a target="_blank" href="{{ '/growthwell' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -140,7 +140,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/lacto_asia_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/lacto_asia_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -151,7 +151,7 @@ third_nav_title: Product Categories
 			<small>Supplier / importer of milk powders and mixtures and cheese products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/lacto-asia">
+			<a target="_blank" href="{{ '/lacto-asia' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -161,7 +161,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Listen%20Up/listen_up_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Listen%20Up/listen_up_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -172,7 +172,7 @@ third_nav_title: Product Categories
 			<small>Manufacturer of instant and ready to drink oat milk.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/listen-up">
+			<a target="_blank" href="{{ '/listen-up' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -182,7 +182,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Mottainai/mottainai_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Mottainai/mottainai_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -193,7 +193,7 @@ third_nav_title: Product Categories
 			<small>Food technology company developing sustainable food ingredients by upcycling nutrient-rich food side streams through solid-state fermentation (SSF).</small>
 		</p>
 		<p>
-			<a target="_blank" href="/mottainai">
+			<a target="_blank" href="{{ '/mottainai' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -203,7 +203,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/np_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/np_logo.jpg' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -214,7 +214,7 @@ third_nav_title: Product Categories
 			<small>Various types of seasonings and ingredients as well as food enhancers.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/np-foods">
+			<a target="_blank" href="{{ '/np-foods' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -224,7 +224,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Roots%20of%20Quality/roots_of_quality_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="{{ '/images/Roots%20of%20Quality/roots_of_quality_logo.png' | relative_url }}">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -235,7 +235,7 @@ third_nav_title: Product Categories
 			<small>Singapore-based brand developing premium plant-based milk from apricot kernels.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/roots-of-quality">
+			<a target="_blank" href="{{ '/roots-of-quality' | relative_url }}">
 				<small>Visit their page</small>
 			</a>
 		</p>

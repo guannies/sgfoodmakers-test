@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/chuan_hong_seng_logo.jpg">
+			<img src="{{ '/images/chuan_hong_seng_logo.jpg' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Chuan Hong Seng Pte Ltd</b></h4>
@@ -53,7 +53,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/chuan_hong_seng_product1.jpg">
+			<img src="{{ '/images/chuan_hong_seng_product1.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Nonya Empire Extra Spicy Chilli Shrimp Roll 400g</h6>
@@ -62,7 +62,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/chuan_hong_seng_product2.jpg">
+			<img src="{{ '/images/chuan_hong_seng_product2.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Nonya Empire White Pepper Powder 80g</h6>
@@ -71,7 +71,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/chuan_hong_seng_product3.jpg">
+			<img src="{{ '/images/chuan_hong_seng_product3.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Nonya Empire Garlic Powder</h6>
@@ -80,7 +80,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/chuan_hong_seng_product4.jpg">
+			<img src="{{ '/images/chuan_hong_seng_product4.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Nonya Empire Rice Vermicelli 500g</h6>
@@ -89,7 +89,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/chuan_hong_seng_product5.jpg">
+			<img src="{{ '/images/chuan_hong_seng_product5.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Nonya Empire Dried Shrimp Chilli (Sambal Udang Kering) 180g</h6>

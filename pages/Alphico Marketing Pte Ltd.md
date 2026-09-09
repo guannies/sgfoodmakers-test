@@ -7,7 +7,7 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Alphico%20Marketing/alphico_marketing_logo.png">
+			<img src="{{ '/images/Alphico%20Marketing/alphico_marketing_logo.png' | relative_url }}">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Alphico Marketing Pte Ltd</b></h4>
@@ -53,7 +53,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Alphico%20Marketing/alphico_marketing_product_01.jpg">
+			<img src="{{ '/images/Alphico%20Marketing/alphico_marketing_product_01.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Cravins Singapore Style Bak Kut Teh</h6>
@@ -62,7 +62,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Alphico%20Marketing/alphico_marketing_product_02.jpg">
+			<img src="{{ '/images/Alphico%20Marketing/alphico_marketing_product_02.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Cravins Char Siew Sauce</h6>
@@ -71,7 +71,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Alphico%20Marketing/alphico_marketing_product_03.jpg">
+			<img src="{{ '/images/Alphico%20Marketing/alphico_marketing_product_03.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Herbal Bak Kut Teh</h6>
@@ -80,7 +80,7 @@ description: ""
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Alphico%20Marketing/alphico_marketing_product_04.jpg">
+			<img src="{{ '/images/Alphico%20Marketing/alphico_marketing_product_04.jpg' | relative_url }}">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Black Pepper Sauce</h6>

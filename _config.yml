@@ -1,5 +1,5 @@
 title: Singapore Food Manufacturers
-url: https://www.sgfoodmakers.sg
+url: https://guannies.github.io
 favicon: /images/new sfma logo.jpg
 colors:
   primary-color: "#e7131a"
@@ -17,7 +17,7 @@ colors:
       color: "#7f7f7f"
 description: Find out more about Singapore Food Manufacturers' quality offerings!
 permalink: none
-baseurl: ""
+baseurl: "/sgfoodmakers-test"
 collections:
   about-us:
     output: true
