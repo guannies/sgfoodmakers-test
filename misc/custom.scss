@@ -351,6 +351,13 @@ $desktop: 960px + (2 * $gap) !default;
   flex-direction: column;
   flex: 1 1 auto;
 
+  // Reserve space for a 2-line title so a wrapped title (e.g. "Alfero
+  // Artisan Gelato Pte Ltd") doesn't push its description lower than a
+  // card with a single-line title in the same row.
+  > figure.sgds-content {
+    min-height: calc(2 * 1lh);
+  }
+
   > p:last-child {
     margin-top: auto;
   }
