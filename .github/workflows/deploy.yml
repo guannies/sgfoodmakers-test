@@ -1,14 +1,28 @@
-# .github/workflows/pages.yml
+# .github/workflows/deploy.yml
 name: Build and deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["master"]
+    # dev_branch is here to exercise the Pages deploy before merging. There is
+    # only one Pages site per repo, so whichever branch pushes last wins.
+    branches: ["master", "dev_branch"]
+  # Lets you deploy a test build from any branch via the Actions tab.
+  workflow_dispatch:
 
 permissions:
   contents: read
   pages: write
   id-token: write
+
+# Let an in-flight deploy finish rather than cancelling it half-published.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  # Project Pages serves this repo under https://guannies.github.io/<repo>/.
+  # Must match `baseurl` in _config_pages.yml.
+  PAGES_BASEURL: /sgfoodmakers-test
 
 jobs:
   build:
@@ -19,7 +33,29 @@ jobs:
         with:
           ruby-version: '3.1'
           bundler-cache: true
-      - run: bundle exec jekyll build
+
+      # _config_pages.yml overrides url/baseurl for the Pages subpath without
+      # touching the production values in _config.yml.
+      - name: Build
+        run: bundle exec jekyll build --config _config.yml,_config_pages.yml
+
+      # The remote theme emits some URLs without the baseurl (nav, logo,
+      # masthead assets, search form). Patch them in the built output.
+      - name: Fix theme URLs that ignore baseurl
+        run: ruby .github/scripts/fix-baseurl.rb "$PAGES_BASEURL" _site
+
+      - name: Verify no root-relative URLs remain
+        run: |
+          leftover=$(grep -rhoE '(href|src|action)="/[^"/][^"]*"' \
+            --include="*.html" _site \
+            | grep -v "\"$PAGES_BASEURL/" || true)
+          if [ -n "$leftover" ]; then
+            echo "::error::URLs still missing $PAGES_BASEURL:"
+            echo "$leftover" | sort -u | head -50
+            exit 1
+          fi
+          echo "All root-relative URLs carry $PAGES_BASEURL."
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
